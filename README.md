@@ -1,5 +1,5 @@
 # taller-uam
 Notación y señal: taller para III Coloquio Espacio-Inmersividad
 
-# Instrucciónes
-Aqui encontraras los materiales del taller
+## Instrucciones
+Aquí encontraras los materiales del taller. Descarga el repositorio a tu computadora y abre el archivo taller.scd
