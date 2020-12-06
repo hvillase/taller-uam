@@ -15,6 +15,14 @@ Aquí encontraras los materiales del taller. Descarga el repositorio a tu comput
 ## Bandas, enambles y orquestas de latop
 The League of Automatic Music Composers
 
+The Hub
+
+Benoit and the mandelbrots
+
+LiveCodeNet Ensamble
+
+OFFAL
+
 
 ## Programas
 Hydra: https://hydra.ojack.xyz/
