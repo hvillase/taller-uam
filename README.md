@@ -10,9 +10,15 @@ Universidad Autónoma Metorpolitana, Unidad Lerma
 ## Instrucciones
 Aquí encontraras los materiales del taller. Descarga el repositorio a tu computadora y explora los contenidos.
 
+## Bandas, enambles y orquestas de latop
+The League of Automatic Music Composers
+
+
 ## Programas
-Hydra
-Gibber
-Estuary
-LiveCodeLab
-Sema
+Hydra:
+
+Gibber:
+
+Estuary:
+
+LiveCodeLab:
