@@ -15,10 +15,10 @@ The League of Automatic Music Composers
 
 
 ## Programas
-Hydra:
+Hydra: https://hydra.ojack.xyz/
 
-Gibber:
+Gibber: https://estuary.mcmaster.ca/
 
-Estuary:
+Estuary: https://gibber.cc/
 
-LiveCodeLab:
+LiveCodeLab: https://livecodelab.net/
