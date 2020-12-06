@@ -1,11 +1,13 @@
-# Notación y señal: prácticas sonoras con código computacional.
+# Programación sonora y colaboración en red
 Taller para III Coloquio Internacional Espacio-Inmersividad
+
+Universidad Autónoma Metorpolitana, Unidad Lerma 
 
 Por Hernani Villaseñor, Posgrado en Música UNAM
 
-Diciembre 2020
+hernani.vr@gmail.com
 
-Universidad Autónoma Metorpolitana, Unidad Lerma 
+Diciembre 2020
 
 ## Instrucciones
 Aquí encontraras los materiales del taller. Descarga el repositorio a tu computadora y explora los contenidos.
@@ -22,3 +24,4 @@ Gibber: https://estuary.mcmaster.ca/
 Estuary: https://gibber.cc/
 
 LiveCodeLab: https://livecodelab.net/
+
