@@ -1,4 +1,5 @@
 
+
 # Programación sonora y colaboración en red
 III Coloquio Internacional Espacio-Inmersividad
 
@@ -18,23 +19,23 @@ Wikipedia: https://es.wikipedia.org/wiki/M%C3%BAsica_por_computadora_en_red
 
 ## Bandas, enambles y orquestas de latop
 ### Pioneros
-The League of Automatic Music Composers
+The League of Automatic Music Composers: http://crossfade.walkerart.org/brownbischoff/index.html
 
 The Hub
 
 ### Red local
-PowerBooks UnPlugged
+PowerBooks UnPlugged: https://toplap.org/powerbooks_unplugged-documentary-online/
 
-Benoit and the mandelbrots
+Benoit and the Mandelbrots: http://www.the-mandelbrots.de/
 
-LiveCodeNet Ensamble
+LiveCodeNet Ensamble: https://livecodenetensamble.wordpress.com/
 
 BSBLOrk
 
 ### Red
-Cybernetic Orchestra
+Cybernetic Orchestra: https://www.facebook.com/CyberneticOrchestra/
 
-OFFAL
+OFFAL: https://offal.github.io/
 
 ## Programas
 Hydra: https://hydra.ojack.xyz/
