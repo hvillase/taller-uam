@@ -1,5 +1,5 @@
 # Programación sonora y colaboración en red
-Taller para III Coloquio Internacional Espacio-Inmersividad
+III Coloquio Internacional Espacio-Inmersividad
 
 Universidad Autónoma Metorpolitana, Unidad Lerma 
 
@@ -12,15 +12,19 @@ Diciembre 2020
 ## Instrucciones
 Aquí encontraras los materiales del taller. Descarga el repositorio a tu computadora y explora los contenidos.
 
+## Música por computadora en red
+Wikipedia: https://es.wikipedia.org/wiki/M%C3%BAsica_por_computadora_en_red
+
 ## Bandas, enambles y orquestas de latop
+### Pioneros
 The League of Automatic Music Composers
 
 The Hub
-
+### Red local
 Benoit and the mandelbrots
 
 LiveCodeNet Ensamble
-
+### Red
 OFFAL
 
 
