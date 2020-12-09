@@ -20,13 +20,20 @@ Wikipedia: https://es.wikipedia.org/wiki/M%C3%BAsica_por_computadora_en_red
 The League of Automatic Music Composers
 
 The Hub
+
 ### Red local
+PowerBooks UnPlugged
+
 Benoit and the mandelbrots
 
 LiveCodeNet Ensamble
-### Red
-OFFAL
 
+BSBLOrk
+
+### Red
+Cybernetic Orchestra
+
+OFFAL
 
 ## Programas
 Hydra: https://hydra.ojack.xyz/
