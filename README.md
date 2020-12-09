@@ -1,3 +1,4 @@
+
 # Programación sonora y colaboración en red
 III Coloquio Internacional Espacio-Inmersividad
 
@@ -44,3 +45,9 @@ Estuary: https://gibber.cc/
 
 LiveCodeLab: https://livecodelab.net/
 
+## Tutoriales
+Hydra: https://ojack.xyz/hydra-functions/
+
+MiniTidal: https://tidalcycles.org/index.php/MiniTidal
+
+Seis8s: https://github.com/luisnavarrodelangel/seis8s
