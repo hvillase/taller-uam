@@ -12,7 +12,7 @@ hernani.vr@gmail.com
 Diciembre 2020
 
 ## Instrucciones
-Aquí encontraras los materiales del taller. Descarga el repositorio a tu computadora y explora los contenidos.
+Aquí encontraras los materiales del taller. Descarga el repositorio a tu computadora y explora los contenidos. Lo recomendable es trabajar en el navegador Chrome.
 
 ## Música por computadora en red
 Wikipedia: https://es.wikipedia.org/wiki/M%C3%BAsica_por_computadora_en_red
