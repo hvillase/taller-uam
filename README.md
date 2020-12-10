@@ -9,6 +9,8 @@ Por Hernani Villaseñor, Posgrado en Música UNAM
 
 hernani.vr@gmail.com
 
+www.hernanivillasenor.com
+
 Diciembre 2020
 
 ## Instrucciones y materiales
@@ -32,7 +34,7 @@ LiveCodeNet Ensamble: https://livecodenetensamble.wordpress.com/
 
 BSBLOrk
 
-### Red
+### Red a la distancia
 Cybernetic Orchestra: https://www.facebook.com/CyberneticOrchestra/
 
 OFFAL: https://offal.github.io/
@@ -55,4 +57,4 @@ Seis8s: https://github.com/luisnavarrodelangel/seis8s
 ## Software experimental de colaboración
 Flok: https://flok.clic.cf/
 
-seis8s: https://github.com/luisnavarrodelangel/seis8s 
+seis8s: https://github.com/luisnavarrodelangel/seis8s
