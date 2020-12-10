@@ -52,3 +52,5 @@ Hydra: https://ojack.xyz/hydra-functions/
 MiniTidal: https://tidalcycles.org/index.php/MiniTidal
 
 Seis8s: https://github.com/luisnavarrodelangel/seis8s
+## Software experimental de colaboración
+Flok: https://flok.clic.cf/
